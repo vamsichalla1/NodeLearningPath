@@ -1,5 +1,9 @@
 # NodeLearningPath
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+
 1. Understanding Node.js Basics
    Event Loop: Node.js uses an event-driven, non-blocking I/O model. Understanding the event loop and how asynchronous code execution works is crucial.
    Modules: Learn how to use require and module.exports to import and export functionalities across different files.
@@ -25,12 +29,12 @@
 
 Below is the schedule of daily tasks to complete nodejs learning activity. By doing that, we should be abale to understand all the above mentioned topics
 
-## Day1
+## Day1  ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=green)
 
 Understand about JSON in javascript, parsing, Stringification, Error Handling Validating JSON , Config settings, Fetch data from API, User Profiles.
    https://medium.com/@stheodorejohn/mastering-json-in-javascript-best-practices-and-real-world-scenarios-b001cb79bb20
 
-## Day2
+## Day2  ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=blue)
 
 Create Sample Node Project  and do the following tasks
 
@@ -43,7 +47,7 @@ Create Sample Node Project  and do the following tasks
     - Connect to a Mongo Database
 
 
-## Day3
+## Day3 ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=blue)
 
 Enhancements to the above code
 
