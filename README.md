@@ -50,6 +50,17 @@ Create Sample Node Project  and do the following tasks
 ## Day3 ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=blue)
 
 Enhancements to the above code
+    - Add routes for different HTTP methods (GET, POST, PUT, DELETE) to handle various API requests(follow the below structure)
+    
+    my-first-node-project/
+├── controllers/
+│   └── itemController.js
+├── routes/
+│   └── itemRoutes.js
+├── .env
+├── server.js
+└── package.json
+
 
 
 
