@@ -52,15 +52,6 @@ Create Sample Node Project  and do the following tasks
 Enhancements to the above code
     - Add routes for different HTTP methods (GET, POST, PUT, DELETE) to handle various API requests(follow the below structure)
     
-    my-first-node-project/
-├── controllers/
-│   └── itemController.js
-├── routes/
-│   └── itemRoutes.js
-├── .env
-├── server.js
-└── package.json
-
 
 
 
