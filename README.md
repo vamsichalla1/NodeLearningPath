@@ -55,8 +55,8 @@ Enhancements to the above code
 
 ## Day4 ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=blue)
 
-1.Include npm package __mongoose__: An ODM (Object Data Modeling) library for MongoDB and Node.js.
-2.Include npm package  __body-parser__: Middleware to parse incoming request bodies.
+- Include npm package __mongoose__: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- Include npm package  __body-parser__: Middleware to parse incoming request bodies.
     
 
 
