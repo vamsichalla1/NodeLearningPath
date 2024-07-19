@@ -55,9 +55,10 @@ Enhancements to the above code
 
 ## Day4 ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=blue)
 
-Enhancements to the above code
+Include below npm packages to the code
 
-    - Include Mongoose modeling tool for mongodbb
+    - **mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+    - **body-parser**: Middleware to parse incoming request bodies.
     
 
 
