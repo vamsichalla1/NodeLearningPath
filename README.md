@@ -57,6 +57,12 @@ Enhancements to the above code
 
 - Include npm package __mongoose__: An ODM (Object Data Modeling) library for MongoDB and Node.js.
 - Include npm package  __body-parser__: Middleware to parse incoming request bodies.
+- Familiar with MongoDb __( tool MongoDB Compass insallted on mac already)__
+- write sample no sql queries and execute on the tool
+- apply similar ones on project
+
+## Day5 ![check](https://img.shields.io/badge/-green.svg?style=for-the-badge&labelColor=gray&color=blue)
+  
     
 
 
